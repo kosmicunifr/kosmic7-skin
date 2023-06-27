@@ -20208,3 +20208,7 @@ with the il- variable set here.
 .il-maincontrols-metabar .btn-bulky .glyphicon {
   color: white;
 }
+.il-maincontrols-metabar > li > .btn-bulky .glyphicon,
+.il-maincontrols-metabar > li > .link-bulky .glyphicon {
+  color: white;
+}
